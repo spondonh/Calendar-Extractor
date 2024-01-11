@@ -1,0 +1,11 @@
+# Environment files
+.env
+__pycache__/
+logs/
+
+# iCloud files
+.DS_Store
+
+
+# Virtual environments
+/venv-20240105/
